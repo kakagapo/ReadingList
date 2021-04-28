@@ -34,4 +34,10 @@ Oxidizing agent: the compound that undergoes reduction
 - Citric acid
 - Sodium bicarbonate (baking soda)
 - Sodium hydroxide (lye)
-- 
+
+## Space propulsion
+- source : https://hackaday.com/2021/04/19/space-propulsion-separating-fact-from-science-fiction/ 
+
+## Car engine related:
+- How turbochargers work ? https://auto.howstuffworks.com/turbo.htm
+- https://auto.howstuffworks.com/engine.htm
