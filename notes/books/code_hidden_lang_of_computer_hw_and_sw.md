@@ -1,6 +1,14 @@
 # 1. Best Friends
+- codes in general
+- morse code
+    - todo: try it with signalling mirrors or torch
+    - SOS ... --- ...
+    - no case difference
+    - simpler and shorter codes for frequently used letters
+    - time spacing between letters and words (also consider human factor)
 
 # 2. Codes and Combinations
+- Samuel Finley Breese Morse (1791 - 1872)
 
 3. Braille and Binary Codes
 
