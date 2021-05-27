@@ -41,3 +41,9 @@ Oxidizing agent: the compound that undergoes reduction
 ## Car engine related:
 - How turbochargers work ? https://auto.howstuffworks.com/turbo.htm
 - https://auto.howstuffworks.com/engine.htm
+
+Engineering Connections: Earthquake Proof Bridge (Richard Hammond) | Science Documentary
+Vettiver grass used to make incense and used to stabilize river banks as they have long roots.
+That was the inspiration behind driving long steel pipes under the sea bed to prevent ground from disintegrating during an earthquake.
+To prevent digging in skis and tobbagans have their fronts curved up.
+Bridges pylons should not dig in. They need to be able to move without digging in. It is achieved by increasing the particle size(gravel) on the medium on which the pylons rest.
