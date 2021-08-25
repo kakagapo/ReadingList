@@ -34,7 +34,7 @@ QSORT(main_cmds.names, main_cmds.cnt, levenshtein_compare);
 | Longest Common Subsequence (LCS)  | `add`, `delete`           |
 | Hamming distance                  | `replace`                 |
 | Levenshtein distance              | `add`, `delete`, `replace`|
-| Damerau–Levenshtein distance      |
+| Damerau–Levenshtein distance      ||
 
 ## Glossary
 
