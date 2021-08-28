@@ -9,6 +9,7 @@
 ### Further reading
 
 - [Zippe-type centrifuge](https://en.wikipedia.org/wiki/Zippe-type_centrifuge#:~:text=From%20Wikipedia%2C%20the%20free%20encyclopedia,in%20naturally%20occurring%20uranium%20compounds)
+- [Cross-Platform / Modular Glupteba Malware Uses ManageX](https://www.trendmicro.com/en_us/research/20/i/cross-platform-modular-glupteba-malware-uses-managex.html)
 
 ## Darknet diaries
 
@@ -31,3 +32,29 @@
 #### Questions
 
 - How to retain logs for post-mortem investigations?
+
+### Episode 89: Cybereason - Molerats in the cloud
+
+- Cybereason - an Israeli company that creates the endpoint protection solution
+- Founder from Unit 8200 (Israels equivalent of NSA)
+- user behavior analytics/anamoly detection based on a in-memory graph based rules/execution engine
+- An agent needs to be intalled on every machine
+- Phishing mails with malicious attachments - exe masking itself as doc or pdf file
+- Talks about a hack where the malware checked if arabic was installed before doing its thing. This greatly reduced the possbility of the malware triggerring alarms in sandboxes
+- VirusTotal was used by the team but it did not detect the uploaded file as virus (probably because of the above mentioned trick used by the virus)
+
+#### Follow-up tasks
+
+- Create an exe that looks like a doc file to figure out how easy it is to do and figure out if Windows or anyother major OS provides any kind-of protections or indications
+
+## Random points
+
+- Modular composition of malware
+- Dropper, packer (UPX packer)
+
+### Gloassary
+
+- Malware
+- Virus
+- Worm
+- Rootkit
