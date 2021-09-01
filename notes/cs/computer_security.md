@@ -43,6 +43,15 @@
 - Talks about a hack where the malware checked if arabic was installed before doing its thing. This greatly reduced the possbility of the malware triggerring alarms in sandboxes
 - VirusTotal was used by the team but it did not detect the uploaded file as virus (probably because of the above mentioned trick used by the virus)
 
+### Episode 98: Zero Day Brokers
+- Book that came up in the podcast `This Is How They Tell Me the World Ends: The Cyberweapons Arms Race`.
+- The author talks about how companies like Microsoft handled vulnerability reports in the past and compares it to now.
+
+### Episode 99: The Spy
+- Todo: indetify the people mentioned in that episode
+- Spies using shoe laces to convery messages
+- Talks about the Israeli intelligence company named Black Cube, that was responsible for hacking people's phone.
+
 #### Follow-up tasks
 
 - Create an exe that looks like a doc file to figure out how easy it is to do and figure out if Windows or anyother major OS provides any kind-of protections or indications
