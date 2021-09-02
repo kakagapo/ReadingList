@@ -1,14 +1,16 @@
-> Stuff here should be moved to permanent locations in the future.
+# Random notes
 
-## Borax uses:
-- In Forge welding as flux(
-    - mixture with ammonium chloride in welding iron and steel
-    - mixed with water when soldering jewellary metals(gold or silver)
+## Borax uses
+
+- In Forge welding as flux
+  - mixture with ammonium chloride in welding iron and steel
+  - mixed with water when soldering jewellary metals(gold or silver)
 - neutron absorber in nuclear reactors
 - anti-fungal foot soak
 - makes slime when mixed with polyvinyl acetate-based glues, such as Elmer's Glue
 
-## Common fluxes used historically:
+## Common fluxes used historically
+
 - sodium carbonate
 - potash
 - charcoal
@@ -18,16 +20,14 @@
 - lead sulfide
 - iron ore in smelting of copper
 
-## Redox reaction:
-Reducing agent: the compound that undergoes oxidation()
-Oxidizing agent: the compound that undergoes reduction
-
 ## Metal joining processes
+
 - Welding
 - Brazing
 - Soldering
 
-## Common cleaning agents:
+## Common cleaning agents
+
 - Acetic acid (vinegar)
 - Acetone (damages plastics)
 - Alcohols like isopropyl alcohol or rubbing alcohol
@@ -36,9 +36,11 @@ Oxidizing agent: the compound that undergoes reduction
 - Sodium hydroxide (lye)
 
 ## Space propulsion
+
 - source : https://hackaday.com/2021/04/19/space-propulsion-separating-fact-from-science-fiction/ 
 
-## Car engine related:
+## Car engine related
+
 - How turbochargers work ? https://auto.howstuffworks.com/turbo.htm
 - https://auto.howstuffworks.com/engine.htm
 
