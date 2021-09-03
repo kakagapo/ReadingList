@@ -1,6 +1,13 @@
 # Physics
 
-Important laws and discoveries
+## Things to check
+
+- Higgs Boson particle
+- Standard model
+- Quantum theory and quantum computers
+- Circuit laws
+
+## Important laws and discoveries
 
 - Maxwell's equation
 - Lorentz force law
