@@ -77,4 +77,5 @@ Hawthorn
 - [The Wood Database](https://www.wood-database.com/)
 - [Fading Gold: The Decline of Aspen in the West](https://www.fs.fed.us/wildflowers/beauty/aspen/index.shtml)
 - [Field Guide for Hazard-Tree Identification and Mitigation on Developed Sites in Oregon and Washington Forests](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprd3799993.pdf)
-- https://www.for.gov.bc.ca/hfd/library/documents/treebook/trees.htm
+- [British Columbia - Index of Trees](https://www.for.gov.bc.ca/hfd/library/documents/treebook/trees.htm)
+- [XYLEM UP - Common and Oregon ash species profiles](https://xylemup.wordpress.com/2012/10/17/common-and-oregon-ash-species-profiles/)
