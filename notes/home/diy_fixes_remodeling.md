@@ -9,6 +9,26 @@
 - Roofing and framing
 - Calculating roof loads
 
+## Countertop options
+
+- Stone
+  - Quartz
+  - Granite
+    - Polished granite
+    - Honed granite
+  - Marble
+  - Soapstone
+  - Onyx
+  - Brazillian Blue stone
+- Laminate
+- Wood
+- Stainless steel
+- Glass
+- Concrete
+- Tile
+- Mica - last option, cheap but crappy
+- Recycled - concrete, glass, paper, composite and plastic
+
 ## Tool list
 
 ### Painting
