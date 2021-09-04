@@ -24,6 +24,18 @@
 
 - [Optimizing Flipkart’s Serviceability Data from 300 GB to 150 MB in-memory](https://tech.flipkart.com/remodelling-flipkarts-serviceability-data-an-optimization-journey-from-300-gb-to-150-mb-in-memory-5c7e9c38bde)
 
+## Google
+
+- [Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43837.pdf)
+- [File Storage on Compute Engine](https://cloud.google.com/architecture/filers-on-compute-engine?hl=en)
+
+## General reading list and information sources
+
+- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga
+- https://cloud.google.com/architecture
+- [SRE Book - Introducing Non-Abstract Large System Design](https://sre.google/workbook/non-abstract-design/)
+- [Nov 2008 - High Scalability - Google Architecture]http://highscalability.com/google-architecture
+
 ### Reimagining video infrastructure to empower YouTube
 
 - Trascoding done using custom chip that Youtube folks call as Video (trans)Coding Unit (VCU)
