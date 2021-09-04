@@ -1,5 +1,7 @@
 # Publications listed by company
+
 ## Facebook
+
 - Facebook’s Tectonic Filesystem: Efficiency from Exascale
 - HHVM Jump-Start: Boosting Both Warmup and Steady-State Performance at Scale
 - Twine: A Unified Cluster Management System for Shared Infrastructure
@@ -33,13 +35,23 @@
 - Spinner: Scalable Graph Partitioning in the Cloud
 
 ### 2014
+
 - f4: Facebook’s Warm BLOB Storage System
 
 ### 2010
+
 - Finding a needle in Haystack: Facebook’s photo storage
 
 ### RocksDB related
+
 - Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience
 - MyRocks: LSM-Tree Database Storage Engine Serving Facebook’s Social Graph
 - Characterizing, Modeling, and Benchmarking RocksDB Key-Value Workloads at Facebook
 - Optimizing Space Amplification in RocksDB
+
+## Microsoft
+
+- [Adaptive Parallelism for Web Search](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/paper-37.pdf)
+- [Effective performance of information retrieval on web by using web crawling](https://arxiv.org/abs/1205.2891)
+- [Microsoft SQL Server Full-Text Search](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.78.5808&rep=rep1&type=pdf#page=9)
+- [An Overview of Microsoft Web N-gram Corpus and Applications](https://aclanthology.org/N10-2012.pdf)
