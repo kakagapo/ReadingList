@@ -26,9 +26,9 @@
 
 ## Notes from Raft paper
 
-- Title: In Search of an Understandable Consensus Algorithm
-- Authors: Diego Ongaro and John Ousterhout, Stanford University
-- Stronger from of leadership - lgo entries flow only from leader
+- "In Search of an Understandable Consensus Algorithm" by Diego Ongaro and John Ousterhout, Stanford University
+- Directly address the replicated state machine problem
+- Stronger from of leadership - log entries flow only from leader
 - Uses randomized timers for leader election
 - Joint consensus - majorities of 2 configurations overlap during transitions
 - Properties of practical consensus algorithms
@@ -42,9 +42,10 @@
   - log replication
   - safety
   - membership changes
-- State space reduction
-- Logs are not allowed to have holes
-- Radomization used to reduce understandability but at the cost of introducing non-determinism
+- State space reduction - basically uses less variables to store internal state
+- Logs are not allowed to have holes - how does this help ???
+- Radomization used (in leader election) to reduce understandability but at the cost of introducing non-determinism
+- Uses RPC and the whole algorithm uses 2 main calls, `AppendEntries` and `RequestVote`. One additional call, `InstallSnapshot`, to do log compaction.
 
 ## Large-scale systems with single cluster leader
 
@@ -67,9 +68,15 @@
 
 ### Leader election
 
+- uses heartbeats to trigger election
 - candidate wins an election if it receives votes from a majority
 - randomized election timeouts
 
 ### Log replication
 
-- Comitted - 
+- Log entry is `comitted` once a it is replicated to a majority of the nodes and the leader applies the change to its local state machine
+- todo: fill in more details
+
+## Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network
+
+Todo
