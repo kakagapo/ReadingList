@@ -33,3 +33,9 @@ API gravity - index of the density of a crude oil or refined products
 ## Abbreviations
 
 API - American Petroleum Institute
+
+## References:
+
+- https://science.howstuffworks.com/environmental/energy/oil-drilling.htm/printable
+- https://science.howstuffworks.com/environmental/energy/oil-refining.htm/printable
+- https://science.howstuffworks.com/environmental/energy/offshore-drilling.htm
