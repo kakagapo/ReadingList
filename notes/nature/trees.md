@@ -43,6 +43,9 @@ Hawthorn
 ## Native tress of Pacific North-West (PNW)
 
 - Oregon Ash - seeds are single samaras borne in large drooping clusters
+- Alders (Birch family)
+  - Red alder
+  - Sitka alder
 - Pacific crabapple
 - Bitter cherry
 - Chokecherry
@@ -52,7 +55,7 @@ Hawthorn
   - bigleaf maple
   - vine maple - deciduous shrub or small tree
   - rocky mountain maple aka Dougalas (named after David Douglas) maple - likely to inhabit drier sites on mountain slopes and talus margins, more upright compared to vine maples
-- black cottonwood
+- black cottonwood (Willow family)
 - quaking aspen
 - oregon white oak
 - Willows
