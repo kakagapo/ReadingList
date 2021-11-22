@@ -12,13 +12,6 @@
 - Maxwell's equation
 - Lorentz force law
 
-## Timeline
-
-- 1820 - Hans Christian Ørsted discovered that an electric current created a magnetic field around it
-- 1823 - Ampere's Force Law
-- 1861 - Maxwell published "On Physical Lines of Force" Maxwell's equations - contained initial form Maxwell's equaltions
-- 1865 - Maxwell published "A Dynamical Theory of the Electromagnetic Field" the equation was generalized
-
 ## People
 
 - Galileo Galilei (1564 - 1642)
