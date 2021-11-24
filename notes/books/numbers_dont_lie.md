@@ -14,4 +14,8 @@
 
 ### The world without syncthetic ammonia
 
+Supplying with Nitrogen traditional
+- Recycling organic material (composting)
+- crop rotation with leguminous plants (cover crops like alfalfa, clovers and vetches and food crops like soybeansm beans, peas, lentils) 
+
 ## Environment - Damaging and Protecting Our World
