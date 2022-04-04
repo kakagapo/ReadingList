@@ -80,3 +80,8 @@
 ## Jupiter Rising: A Decade of Clos Topologies and Centralized Control in Google’s Datacenter Network
 
 Todo
+
+### Things to consider and balance
+
+- Diversity of componets vs unformity : former guarantess that a singe issue does not take out the whole system, latter gives you ease of maintenance and mgmt.
+- placing workloads closeby to efficiently communicate vs placing workloads farther apart for redundancy.
