@@ -55,3 +55,9 @@
 - [Effective performance of information retrieval on web by using web crawling](https://arxiv.org/abs/1205.2891)
 - [Microsoft SQL Server Full-Text Search](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.78.5808&rep=rep1&type=pdf#page=9)
 - [An Overview of Microsoft Web N-gram Corpus and Applications](https://aclanthology.org/N10-2012.pdf)
+
+## Uber
+
+## Netflix
+
+- [Edge Authentication and Token-Agnostic Identity Propagation - Feb 9, 2021](https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602)
