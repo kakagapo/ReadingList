@@ -49,3 +49,47 @@ Vettiver grass used to make incense and used to stabilize river banks as they ha
 That was the inspiration behind driving long steel pipes under the sea bed to prevent ground from disintegrating during an earthquake.
 To prevent digging in skis and tobbagans have their fronts curved up.
 Bridges pylons should not dig in. They need to be able to move without digging in. It is achieved by increasing the particle size(gravel) on the medium on which the pylons rest.
+
+
+## Visualizatin
+### Broken Horizontal Bar plot
+```python
+import matplotlib.pyplot as plt 
+
+#Defining the x and y ranges 
+xranges = [(5,5), (20,5),(20,7)] 
+yrange = (2,1) 
+
+#Plotting the broken bar chart 
+plt.broken_barh(xranges, yrange, facecolors='green') 
+
+xranges = [(5,2), (28,5),(40,2)] 
+yrange = (30,1) 
+plt.broken_barh(xranges, yrange, facecolors='red') 
+
+
+plt.xlabel('Sales') 
+plt.ylabel('Days of the Month') 
+plt.show()
+```
+
+### Image watermarking
+```python
+import numpy as np 
+import matplotlib.image as image 
+import matplotlib.pyplot as plt 
+
+import pandas as pd 
+df = pd.read_csv('income.csv') 
+lebron_james = df[df['Name']=='LeBron James']
+
+fig, ax = plt.subplots() 
+ax.grid() 
+ax.plot('Year','earnings ($ million)', data=lebron_james) 
+ax.set_title("LeBron James earnings in US$(millions)") 
+
+img = image.imread('Lebron_James.jpeg')
+fig.figimage(img, 60, 40,cmap='ocean', alpha=.2)
+
+plt.show()
+```
