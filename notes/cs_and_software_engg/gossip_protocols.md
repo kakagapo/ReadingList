@@ -19,3 +19,6 @@
     - periodic full sync over TCP
     - dedicated gossip msg + piggybacking support
 - Flap dampening solution known as Lifeguard
+
+## Reading list:
+- [Using Gossip Protocols For Failure Detection, Monitoring, Messaging And Other Good Things] (http://highscalability.com/blog/2011/11/14/using-gossip-protocols-for-failure-detection-monitoring-mess.html)

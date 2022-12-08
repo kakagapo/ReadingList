@@ -2,11 +2,11 @@
 
 ## Conifer (usually soft-woods)
 
-- Pine - white pine, lodgepole pine, etc.
+- Pine - Western White Pine, Lodgepole Pine, etc.
 - Spruce
 - Fir
--- Douglas fir
-Cedar
+-- Douglas fir (not a true, what is a true fir???)
+- Cedar
 
 Soft-woods used in building construction and mostly not in furniture making. Press your finger nail with surface with you
 
@@ -42,6 +42,11 @@ Hawthorn
 
 ## Native tress of Pacific North-West (PNW)
 
+- Pine
+    - Western White Pine
+    - Whitebark Pine
+    - Ponderosa Pine
+    - Lodgepole Pine
 - Oregon Ash - seeds are single samaras borne in large drooping clusters
 - Alders (Birch family)
   - Red alder
@@ -55,14 +60,28 @@ Hawthorn
   - bigleaf maple
   - vine maple - deciduous shrub or small tree
   - rocky mountain maple aka Dougalas (named after David Douglas) maple - likely to inhabit drier sites on mountain slopes and talus margins, more upright compared to vine maples
-- black cottonwood (Willow family)
-- quaking aspen
-- oregon white oak
+- Black cottonwood (Willow family)
+- Quaking aspen
+- Oregon white oak
 - Willows
   - Hooker's Willow
   - Pacific Willow
   - Scouler's Willow
   - Sitka Willow
+- Pacific madrone
+- Cedars
+  - Wesern Red Cedar
+  - Alaska Cedar
+- Fir
+    - Noble Fir
+    - Grand Fir
+    - Subalpine Fir
+    - Pacific Silver Fir
+- Spruce
+    - Sitka Spruce
+- Larch
+    - Western larch
+    - Subalpine larch
 
 ## Common applications
 
@@ -82,3 +101,4 @@ Hawthorn
 - [Field Guide for Hazard-Tree Identification and Mitigation on Developed Sites in Oregon and Washington Forests](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprd3799993.pdf)
 - [British Columbia - Index of Trees](https://www.for.gov.bc.ca/hfd/library/documents/treebook/trees.htm)
 - [XYLEM UP - Common and Oregon ash species profiles](https://xylemup.wordpress.com/2012/10/17/common-and-oregon-ash-species-profiles/)
+- Trees of Washington By Milton M. Mosher, Professor of Forestry, and Knut Lunnum, Former Extension Forestry Specialist, Washington State University
