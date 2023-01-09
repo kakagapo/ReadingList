@@ -5,7 +5,7 @@
 - refractor
 - reflector
   - Dobsonian
-  - Newtonian 
+  - Newtonian
 - catadioptric aka compound
   - Schmidt-Cassegrain
   - Maksutov–Cassegrain  
@@ -29,7 +29,7 @@
 
 Magnification formula:
 
-```
+```text
 Magnification = Focal length of telescope / Focal length of the eyepiece
 ```
 
