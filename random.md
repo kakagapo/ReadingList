@@ -1,5 +1,7 @@
 # Random notes
 
+This in here are yet to orgainized.
+
 ## Borax uses
 
 - In Forge welding as flux
@@ -50,9 +52,10 @@ That was the inspiration behind driving long steel pipes under the sea bed to pr
 To prevent digging in skis and tobbagans have their fronts curved up.
 Bridges pylons should not dig in. They need to be able to move without digging in. It is achieved by increasing the particle size(gravel) on the medium on which the pylons rest.
 
+## Visualization
 
-## Visualizatin
 ### Broken Horizontal Bar plot
+
 ```python
 import matplotlib.pyplot as plt 
 
@@ -74,6 +77,7 @@ plt.show()
 ```
 
 ### Image watermarking
+
 ```python
 import numpy as np 
 import matplotlib.image as image 
@@ -93,3 +97,19 @@ fig.figimage(img, 60, 40,cmap='ocean', alpha=.2)
 
 plt.show()
 ```
+
+## Grade school math word problems dataset from OpenAI
+
+https://github.com/openai/grade-school-math
+
+## Kubernetes
+
+### Github org and repos
+
+https://github.com/kubernetes-sigs
+
+### Other interesting link
+
+- https://kubernetes.io/docs/concepts/scheduling-eviction/scheduling-framework/
+- https://github.com/kubernetes/enhancements/blob/master/keps/sig-scheduling/624-scheduling-framework/README.md
+- [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/)

@@ -1,5 +1,5 @@
 # Tools
 
-# Hand tools
+## Gardening Hand tools
 
-- Pruning shears or secateurs
+- Pruning shears or secateurs.
