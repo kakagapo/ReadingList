@@ -1,4 +1,4 @@
-# Yoda
+# Yoga
 
 ## Glossary
 
