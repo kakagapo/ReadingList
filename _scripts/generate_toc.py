@@ -1,7 +1,8 @@
+# Inspired by https://github.com/antlr/grammars-v4/blob/master/_scripts/mkindex.py
+
 import os
 import sys
 from pathlib import Path
-import re
 from typing import Sequence
 
 def path_exists(path):
