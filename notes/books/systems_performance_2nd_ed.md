@@ -22,7 +22,7 @@ Observability tools use counters, profiling and tracing
 
 ##### Static instrumentation
 
-- Linumx kernel static instrumentation done via `tracepoints`
+- Linux kernel static instrumentation done via `tracepoints`
 - For user-space software - `user statically defined tracing (USDT)` - used by libraries (eg., libc)
 - Tool using USDT is `execsnoop` - traces new processes, showing the filename executed and argument list
 - execsnoop is useful for revealing short-lived processes that may be missed by other observability tools such as top

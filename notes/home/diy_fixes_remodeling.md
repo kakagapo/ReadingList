@@ -35,11 +35,11 @@
 - When stripping make sure not to damage the wall. Use a sander instead of any other scraping tool.
 
 ## Bathroom
- 
- - Wall should be plumb (perfectly vertical) before fixing tiles
- - Use cement board as base for tiles
- - Use spacers if required
- - Consider using Kerdi boards as they are waterproof 
+
+- Wall should be plumb (perfectly vertical) before fixing tiles
+- Use cement board as base for tiles
+- Use spacers if required
+- Consider using Kerdi boards as they are waterproof 
 
 ## Plumbing
 
