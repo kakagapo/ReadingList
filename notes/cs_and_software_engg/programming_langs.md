@@ -12,10 +12,12 @@ Used in
 
 ## C\#
 
-- Attributes
+- [Attributes](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/)
 - Reflection
 - [Volatile keyword in C# – memory model explained](https://igoro.com/archive/volatile-keyword-in-c-memory-model-explained/)
 - [Dependency resolution](https://learn.microsoft.com/en-us/nuget/concepts/dependency-resolution)
+- https://learn.microsoft.com/en-us/dotnet/standard/threading/using-threads-and-threading
+- https://social.msdn.microsoft.com/Forums/vstudio/en-US/34205ce3-2887-4d73-91fd-9a82a9393983/volatile-and-long?forum=csharpgeneral
 
 ## Java
 
@@ -27,6 +29,8 @@ Used in
   - Mainly based on reference counts (won't help with cycles)
   - Since cycles are limited container objects they are tracked separately and scanned periodically for reachability. To be able to scan through all the objects they should have a link between them. That is done by maintaining pointers to prev and next objects, thereby making it a doubly linked-list.
 - [GC Module](https://docs.python.org/3/library/gc.html)
+- [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
+- [PEP 318 – Decorators for Functions and Methods](https://peps.python.org/pep-0318/)
 
 ## Go
 
@@ -36,6 +40,7 @@ Used in
   - dangling pointers
   - double frees
   - using uninitialized memory
+- https://internals.rust-lang.org/t/add-volatile-operations-to-core-x86-64/10480
 
 ### Books
 
