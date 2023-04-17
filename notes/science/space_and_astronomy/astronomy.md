@@ -10,3 +10,8 @@
 
 - Open source guiding software - [PHD2](https://openphdguiding.org/)
 
+## Links and references
+
+- https://fedoramagazine.org/astrophotography-with-fedora-astronomy-lab-setting-up/
+- https://www.gnu.org/software/gnuastro/manual/gnuastro.html
+- http://www.seasky.org/astronomy/astronomy-equipment.html

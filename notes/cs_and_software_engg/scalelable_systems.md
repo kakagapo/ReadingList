@@ -35,6 +35,8 @@
 - https://cloud.google.com/architecture
 - [SRE Book - Introducing Non-Abstract Large System Design](https://sre.google/workbook/non-abstract-design/)
 - [Nov 2008 - High Scalability - Google Architecture]http://highscalability.com/google-architecture
+- [Capturing A Billion Emo(j)i-ons](https://blog.hotstar.com/capturing-a-billion-emojis-62114cc0b440)
+- [Building Pubsub for 50M concurrent socket connections](https://blog.hotstar.com/building-pubsub-for-50m-concurrent-socket-connections-5506e3c3dabf)
 
 ### Reimagining video infrastructure to empower YouTube
 

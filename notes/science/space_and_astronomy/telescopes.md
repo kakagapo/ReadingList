@@ -1,10 +1,10 @@
 # Optical telescopes
 
-## 3 Main Types
+## 3 Main Telescope Types
 
 - refractor
 - reflector
-  - Dobsonian -> refers to the mount type. alt-azimuth type mount and is very easy to use. Not suitable for astrophotography as automated tracking is difficult.
+  - Dobsonian -> refers to the mount type. 
   - Newtonian
 - catadioptric aka compound (uses both refracting and reflecting elements)
   - Schmidt-Cassegrain
@@ -23,6 +23,13 @@
 - does not have color fringing issues seen in doublet refractors
 - reqiures Collimation
 - Look for paraboloic mirror and not spherical mirror
+
+## Telescope Mount types
+
+### Equatorial Mount
+### Dobsonian Mount
+
+Alt-azimuth type mount and is very easy to use. Not suitable for astrophotography as automated tracking is difficult.
 
 ## Eyepieces
 
