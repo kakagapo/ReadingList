@@ -60,6 +60,7 @@ Used in
 ### Learning resources
 
 - https://developers.google.com/edu/c++/getting-started
+- [Abseil - from Google](https://abseil.io/)
 
 ```cpp
 using namespace std;
