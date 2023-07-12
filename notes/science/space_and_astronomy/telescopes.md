@@ -4,7 +4,6 @@
 
 - refractor
 - reflector
-  - Dobsonian -> refers to the mount type. 
   - Newtonian
 - catadioptric aka compound (uses both refracting and reflecting elements)
   - Schmidt-Cassegrain
@@ -62,3 +61,8 @@ Focal Length Description: 1219 month
 ## Glossary
 
 - Plossl eyepiece: Two pairs of two glass lenses
+
+## Links and references
+
+- [ASCOM standard Wiki page](https://en.wikipedia.org/wiki/ASCOM_(standard))
+- 
